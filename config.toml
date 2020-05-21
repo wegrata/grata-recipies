@@ -1,0 +1,4 @@
+baseURL = "http://wegrata.github.io/"
+languageCode = "en-us"
+title = "Grata Family Recipies"
+theme = "ananke"
